@@ -8,26 +8,32 @@
 #      Markdown formatted page while the second is generated using JSON.
 
 main:
-  - title: "Publications"
-    url: /publications/
+  - title: "Home"
+    url: /
 
-  - title: "Talks"
-    url: /talks/    
+  - title: "CV"
+    url: "https://www.dropbox.com/scl/fi/j1iidqjaaixsy9xoxv3yv/SeonoCV.pdf?rlkey=y19iz5ts0z9xwwotlqa77jys6&dl=0"
 
   - title: "Teaching"
-    url: /teaching/    
-    
-  - title: "Portfolio"
-    url: /portfolio/
-        
-  - title: "Blog Posts"
-    url: /year-archive/
-    
-  - title: "CV"
-    url: /cv/
-    
+    url: /teaching/
+
+  # - title: "Publications"
+  #   url: /publications/
+
+  # - title: "Talks"
+  #   url: /talks/
+
+  # - title: "Portfolio"
+  #   url: /portfolio/
+
+  # - title: "Blog Posts"
+  #   url: /year-archive/
+
+  # - title: "CV"
+  #   url: /cv/
+
   # - title: "CV"
   #   url: /cv-json/
-    
-  - title: "Guide"
-    url: /markdown/
+
+  # - title: "Guide"
+  #   url: /markdown/
