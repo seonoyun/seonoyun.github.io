@@ -26,9 +26,16 @@ author_profile: false
         My research interests lie in health economics, applied microeconomics, and empirical public policy analysis. I utilize econometric methods and causal inference frameworks to evaluate healthcare policies and health outcomes.
       </p>
 
-      <p style="margin-top: 20px;">
-        <a href="mailto:syun48@ucsc.edu" style="margin-right: 15px;">Email</a>
-        <a href="https://www.linkedin.com" target="_blank" rel="noopener noreferrer">LinkedIn</a>
+      <p style="margin-top: 20px; margin-bottom: 5px;">
+        Email: syun7@ucsc.edu
+      </p>
+
+      <p style="margin-top: 0;">
+        <a href="https://linkedin.com/in/seono-yun-271a3126a"
+           target="_blank"
+           rel="noopener noreferrer">
+          LinkedIn
+        </a>
       </p>
 
     </div>
@@ -39,7 +46,10 @@ author_profile: false
 
   <div style="margin-bottom: 30px;">
     <p style="margin-bottom: 5px;">
-      <a href="https://www.dropbox.com/scl/fo/glx0uhj428s609aktp2sv/APYL8bKpjhv9hvrtRhW6Ado?rlkey=32llgbdegxki1tecc8kj315xq&dl=0" style="font-size: 1.2em;">
+      <a href="https://www.dropbox.com/scl/fo/glx0uhj428s609aktp2sv/APYL8bKpjhv9hvrtRhW6Ado?rlkey=32llgbdegxki1tecc8kj315xq&dl=0"
+         target="_blank"
+         rel="noopener noreferrer"
+         style="font-size: 1.2em;">
         <strong>The Effect of Medicaid Expansion on Sexually Transmitted Infections</strong>
       </a>
     </p>
