@@ -4,7 +4,7 @@ title: ""
 author_profile: false
 ---
 
-<div style="max-width: 1100px; margin: 0 auto; padding: 0 20px;">
+<div style="width: 100%; max-width: 1400px; margin: 0 auto; padding: 0 20px;">
 
   <div style="display: flex; align-items: center; gap: 40px; flex-wrap: wrap; margin-top: 40px; margin-bottom: 50px;">
 
