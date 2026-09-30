@@ -46,7 +46,7 @@ author_profile: false
 
   <div style="margin-bottom: 30px;">
     <p style="margin-bottom: 5px;">
-      <a href="https://www.dropbox.com/scl/fo/glx0uhj428s609aktp2sv/APYL8bKpjhv9hvrtRhW6Ado?rlkey=32llgbdegxki1tecc8kj315xq&dl=0"
+      <a href="https://www.dropbox.com/scl/fi/erci2kg181iaicubtvn09/MEandSTI.pdf?rlkey=snfmypd9rb3k2eq4ch3y4j06h&st=r5xzmuv9&dl=0"
          target="_blank"
          rel="noopener noreferrer"
          style="font-size: 1.2em;">
