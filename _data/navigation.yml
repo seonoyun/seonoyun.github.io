@@ -8,9 +8,6 @@
 #      Markdown formatted page while the second is generated using JSON.
 
 main:
-  - title: "Home"
-    url: /
-
   - title: "CV"
     url: "https://www.dropbox.com/scl/fi/j1iidqjaaixsy9xoxv3yv/SeonoCV.pdf?rlkey=y19iz5ts0z9xwwotlqa77jys6&dl=0"
     target: "_blank"
