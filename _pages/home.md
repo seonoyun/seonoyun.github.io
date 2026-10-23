@@ -57,4 +57,16 @@ author_profile: false
     </p>
   </div>
 
+  <h3 style="margin-top: 0.8em; margin-bottom: 0.8em;">Work in Progress</h3>
+
+  <div style="margin-bottom: 30px;">
+    <p style="margin-bottom: 5px; font-size: 1.2em;">
+      <strong>Physician Responses to the Medicare Shared Savings Program</strong>
+    </p>
+
+    <p style="margin-top: 0;">
+      Using a regression discontinuity design, this project examines how financial rewards for cost savings affect physician behavior in the Medicare Shared Savings Program (MSSP). I link CMS data on accountable care organizations (ACOs) participating in the MSSP with physician-level measures of practice behavior and compare ACOs just above and below the minimum savings rate threshold for shared savings eligibility.
+    </p>
+  </div>
+
 </div>
