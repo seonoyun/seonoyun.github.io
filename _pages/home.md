@@ -19,11 +19,7 @@ author_profile: false
       <h1 style="margin-top: 0;">Hi, I am Seono Yun.</h1>
 
       <p>
-        I am a fourth-year Ph.D. student in Economics at the University of California, Santa Cruz.
-      </p>
-
-      <p>
-        My research interests lie in health economics, public economics, and applied microeconomics. I study how healthcare policies affect patients and physicians.
+        I am a fourth-year Ph.D. student in Economics at the University of California, Santa Cruz. My research interests lie in health economics, public economics, and applied microeconomics. I study how healthcare policies affect patients and physicians.
       </p>
 
       <p style="margin-top: 20px; margin-bottom: 5px;">
@@ -42,8 +38,7 @@ author_profile: false
 
   </div>
 
-  <h2>Research</h2>
-  <h3 style="margin-top: 0.8em; margin-bottom: 0.8em;">Work in Progress</h3>
+  <h2>Working Paper</h2>
 
   <div style="margin-bottom: 30px;">
     <p style="margin-bottom: 5px;">
