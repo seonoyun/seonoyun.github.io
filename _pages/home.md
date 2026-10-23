@@ -38,7 +38,8 @@ author_profile: false
 
   </div>
 
-  <h2>Working Paper</h2>
+  <h2>Research</h2>
+  <h3 style="margin-top: 0.8em; margin-bottom: 0.8em;">Working Paper</h3>
 
   <div style="margin-bottom: 30px;">
     <p style="margin-bottom: 5px;">
