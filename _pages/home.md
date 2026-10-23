@@ -19,11 +19,11 @@ author_profile: false
       <h1 style="margin-top: 0;">Hi, I am Seono Yun.</h1>
 
       <p>
-        I am a Ph.D. Candidate in Economics at the University of California, Santa Cruz.
+        I am a fourth-year Ph.D. student in Economics at the University of California, Santa Cruz.
       </p>
 
       <p>
-        My research interests lie in health economics, applied microeconomics, and empirical public policy analysis. I utilize econometric methods and causal inference frameworks to evaluate healthcare policies and health outcomes.
+        My research interests lie in health economics, public economics, and applied microeconomics. I study how healthcare policies affect patients and physicians.
       </p>
 
       <p style="margin-top: 20px; margin-bottom: 5px;">
